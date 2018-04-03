@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Unit and API">
+
+    <test name="Functions tests">
+
+
+        <classes>
+            <class name="CheckDevFunctions"/>
+            <class name="CheckQAfunctions"/>
+        </classes>
+    </test>
+
+</suite>
